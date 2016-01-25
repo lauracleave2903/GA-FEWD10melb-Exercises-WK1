@@ -1,0 +1,13 @@
+h1 {
+    color: #6f625a;
+    font-size: 4em;
+    font-family: "avenir next", helvetica, sans-serif;
+}
+
+body {
+    font-family: "avenir next", helvetica, sans-serif;
+}
+
+p, li {
+    font-size: 1em;
+}
